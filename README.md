@@ -17,3 +17,4 @@
 ### Toolbox
 - [Kalibr](https://github.com/ethz-asl/kalibr): Camera, IMU calibration toolbox
 - [KITTI-odom-eval](https://github.com/Huangying-Zhan/kitti-odom-eval): KITTI odometry evaluation toolbox
+- [labelImg](https://github.com/tzutalin/labelImg): Image annotation toolbox

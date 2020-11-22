@@ -8,6 +8,7 @@
 - [SfMLearner](https://github.com/tinghuiz/SfMLearner)
 - [darkflow](https://github.com/thtrieu/darkflow)
 - [sparse-to-dense](https://github.com/fangchangma/sparse-to-dense)
+- [SqueezeNet](https://github.com/forresti/SqueezeNet)
 
 ### Deep Learning - Lidar
 - [SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg)

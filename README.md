@@ -3,7 +3,8 @@
 ### Visual SLAM
 - [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
 - [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)
-- [OpenVSLAM](https://github.com/xdspacelab/openvslam) 
+- [OpenVSLAM](https://github.com/xdspacelab/openvslam)
+- [pySLAM](https://github.com/luigifreda/pyslam) 
 
 ### Deep Learning - Camera
 - [SfMLearner](https://github.com/tinghuiz/SfMLearner)
